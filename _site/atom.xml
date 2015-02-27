@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Danyal Zia</title>
+ <link href="http://danyalzia.com/atom.xml" rel="self"/>
+ <link href="http://danyalzia.com/"/>
+ <updated>2015-02-28T02:15:58+05:00</updated>
+ <id>http://danyalzia.com</id>
+ <author>
+   <name>Danyal Zia</name>
+   <email>contact@danyalzia.com</email>
+ </author>
+
+ 
+
+</feed>
