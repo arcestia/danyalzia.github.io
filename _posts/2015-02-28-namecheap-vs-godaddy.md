@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 6 Tips For Writing A Killer Cover Letter
+title: Namecheap vs GoDaddy - Why I chose Namecheap over GoDaddy for domain registration
 ---
 
 <div dir="ltr" style="text-align: left;" trbidi="on">
