@@ -11,7 +11,7 @@ relative_permalinks: true
 # Setup
 title:               Danyal Zia
 tagline:             'A freelance software developer, an occassional writer and an entrepreneur.'
-description:         'A freelance software developer, an occassional writer and an entrepreneur.'
+description:         "Danyal Zia's thoughts on software development, personal development, blogging and entrepreneurship."
 url:                 http://danyalzia.com
 baseurl:             /
 paginate:            5

@@ -4,7 +4,7 @@
  <title>Danyal Zia</title>
  <link href="http://danyalzia.com/atom.xml" rel="self"/>
  <link href="http://danyalzia.com/"/>
- <updated>2015-03-01T14:43:49+05:00</updated>
+ <updated>2015-03-01T15:18:06+05:00</updated>
  <id>http://danyalzia.com</id>
  <author>
    <name>Danyal Zia</name>
@@ -95,7 +95,7 @@ Know any other tips for writing a killer cover letter that has helped you landin
    <link href="http://danyalzia.com/2015/02/18/programming-blog-migrated/"/>
    <updated>2015-02-18T00:00:00+05:00</updated>
    <id>http://danyalzia.com/2015/02/18/programming-blog-migrated</id>
-   <content type="html">&lt;p&gt;I have migrated the programming posts / guides that were hosted on this blog to my sister-site: Coding Makes You Happy! From now on, this blog is about my opinions on programming, software development and personal development, so all the future programming tutorials will reside in the aforementioned site.&lt;/p&gt;
+   <content type="html">&lt;p&gt;I have migrated the programming posts / guides that were hosted on this blog to my sister-site: &lt;a href=&quot;http://codingmakesyouhappy.com&quot;&gt;Coding Makes You Happy!&lt;/a&gt;. From now on, this blog is about my opinions on programming, software development and personal development, so all the future programming tutorials will reside in the aforementioned site.&lt;/p&gt;
 </content>
  </entry>
  
@@ -104,7 +104,7 @@ Know any other tips for writing a killer cover letter that has helped you landin
    <link href="http://danyalzia.com/2015/01/28/separate-programming-blog/"/>
    <updated>2015-01-28T00:00:00+05:00</updated>
    <id>http://danyalzia.com/2015/01/28/separate-programming-blog</id>
-   <content type="html">&lt;p&gt;Another intuitive. This time I have created a separate blog for programming like I did for book reviews. The reason for this is that I want this site/blog to be my personal/professional home page only, and I don&amp;#39;t want to fill it with programming tutorials. The tutorials that are hosted on this blog will be migrated to the aforementioned blog.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Another intuitive. This time I have created a &lt;a href=&quot;http://codingmakesyouhappy.com&quot;&gt;separate blog for programming&lt;/a&gt;. The reason for this is that I want this site/blog to be my personal/professional home page only, and I don&amp;#39;t want to fill it with programming tutorials. The tutorials that are hosted on this blog will be migrated to the aforementioned blog.&lt;/p&gt;
 </content>
  </entry>
  
@@ -122,7 +122,7 @@ Know any other tips for writing a killer cover letter that has helped you landin
    <link href="http://danyalzia.com/2015/01/15/my-fiverr-gig/"/>
    <updated>2015-01-15T00:00:00+05:00</updated>
    <id>http://danyalzia.com/2015/01/15/my-fiverr-gig</id>
-   <content type="html">&lt;p&gt;I had a created a Gig on programming in Fiverr about 2 months ago, but unfortunately, it didn&amp;#39;t sell very well. Now, I have improved the information on it with proper images. Feel free to buy Gigs through it if you want me to write a programming blog / article for you.&lt;/p&gt;
+   <content type="html">&lt;p&gt;I had a created a Gig on programming in &lt;a href=&quot;http://fiverr.com/danyalzia&quot;&gt;Fiverr&lt;/a&gt; about 2 months ago, but unfortunately, it didn&amp;#39;t sell very well. Now, I have improved the information on it with proper images. Feel free to buy Gigs through it if you want me to write a programming blog / article for you.&lt;/p&gt;
 </content>
  </entry>
  
@@ -131,7 +131,7 @@ Know any other tips for writing a killer cover letter that has helped you landin
    <link href="http://danyalzia.com/2015/01/10/pinterest-account-created/"/>
    <updated>2015-01-10T00:00:00+05:00</updated>
    <id>http://danyalzia.com/2015/01/10/pinterest-account-created</id>
-   <content type="html">&lt;p&gt;Today I created my account on Pinterest, which is a visual discovery tool. Through it, one can create different boards to pin (post) different images. It is a great way to keep yourself reminded of the message in the images, such as, New Year resolutions, motivational quotes, etc. The link to my profile can be found at the end of my site.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Today I created my account on &lt;a href=&quot;http://pinterest.com/danyalzia&quot;&gt;Pinterest&lt;/a&gt;, which is a visual discovery tool. Through it, one can create different boards to pin (post) different images. It is a great way to keep yourself reminded of the message in the images, such as, New Year resolutions, motivational quotes, etc.&lt;/p&gt;
 </content>
  </entry>
  
@@ -140,9 +140,10 @@ Know any other tips for writing a killer cover letter that has helped you landin
    <link href="http://danyalzia.com/2015/01/02/religious-dogmatism-and-conviction/"/>
    <updated>2015-01-02T00:00:00+05:00</updated>
    <id>http://danyalzia.com/2015/01/02/religious-dogmatism-and-conviction</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;http://danyalzia.com/media/images/religious-conviction.png&quot; alt=&quot;Religious&quot;&gt;
-&lt;em&gt;&lt;img src=&quot;url&quot; alt=&quot;Relgious Conviction&quot;&gt;&lt;/em&gt;
-This is the 21st century and the world has become a global village. People have become civilized, intellectually independent and started questioning their faith; you can’t force your beliefs on others and expect them to give respect to you! Humans have evolved intellectually and realized that organized religions and ideologies only killed more people and deterred progression. If you think that girls shouldn’t be in schools or women without veil don’t deserve respect or people deserves to die for merely holding a different belief and writing a book criticizing your faith, then you have so much in common with the Taliban, ISIS, etc.&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;http://danyalzia.com/media/images/religious-conviction.png&quot; alt=&quot;Relgious Conviction&quot;&gt;
+&lt;em&gt;&lt;img src=&quot;url&quot; alt=&quot;Relgious Conviction&quot;&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;This is the 21st century and the world has become a global village. People have become civilized, intellectually independent and started questioning their faith; you can’t force your beliefs on others and expect them to give respect to you! Humans have evolved intellectually and realized that organized religions and ideologies only killed more people and deterred progression. If you think that girls shouldn’t be in schools or women without veil don’t deserve respect or people deserves to die for merely holding a different belief and writing a book criticizing your faith, then you have so much in common with the Taliban, ISIS, etc.&lt;/p&gt;
 
 &lt;p&gt;Humans deserve respect, ideologies don’t. Keep your religion to yourself, and your life and others’ life will be great!&lt;/p&gt;
 </content>
