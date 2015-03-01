@@ -3,6 +3,12 @@
   
   
   <url>
+    <loc>http://danyalzia.com/2015/03/01/migrated-to-jekyll/</loc>
+    <lastmod>2015-03-01T00:00:00+05:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>http://danyalzia.com/2015/02/28/namecheap-vs-godaddy/</loc>
     <lastmod>2015-02-28T00:00:00+05:00</lastmod>
     <priority>0.8</priority>
@@ -15,43 +21,86 @@
   </url>
   
   <url>
-    <loc>http://danyalzia.com/2015/02/25/hi-there/</loc>
-    <lastmod>2015-02-25T00:00:00+05:00</lastmod>
+    <loc>http://danyalzia.com/2015/02/18/programming-blog-migrated/</loc>
+    <lastmod>2015-02-18T00:00:00+05:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://danyalzia.com/2015/01/28/separate-programming-blog/</loc>
+    <lastmod>2015-01-28T00:00:00+05:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://danyalzia.com/2015/01/16/subscribe-to-mailing-list/</loc>
+    <lastmod>2015-01-16T00:00:00+05:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://danyalzia.com/2015/01/15/my-fiverr-gig/</loc>
+    <lastmod>2015-01-15T00:00:00+05:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://danyalzia.com/2015/01/10/pinterest-account-created/</loc>
+    <lastmod>2015-01-10T00:00:00+05:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://danyalzia.com/2015/01/02/religious-dogmatism-and-conviction/</loc>
+    <lastmod>2015-01-02T00:00:00+05:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://danyalzia.com/2015/01/01/hi-there/</loc>
+    <lastmod>2015-01-01T00:00:00+05:00</lastmod>
     <priority>0.8</priority>
   </url>
   
   
   <url>
     <loc>http://danyalzia.com/404.html</loc>
-    <lastmod>2015-02-28T23:50:04+05:00</lastmod>
+    <lastmod>2015-03-01T14:43:49+05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://danyalzia.com/about/</loc>
-    <lastmod>2015-02-28T23:50:04+05:00</lastmod>
+    <lastmod>2015-03-01T14:43:49+05:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://danyalzia.com/archive/</loc>
+    <lastmod>2015-03-01T14:43:49+05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://danyalzia.com/contact/</loc>
-    <lastmod>2015-02-28T23:50:04+05:00</lastmod>
+    <lastmod>2015-03-01T14:43:49+05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://danyalzia.com/</loc>
-    <lastmod>2015-02-28T23:50:04+05:00</lastmod>
+    <lastmod>2015-03-01T14:43:49+05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
     <loc>http://danyalzia.com/projects/</loc>
-    <lastmod>2015-02-28T23:50:04+05:00</lastmod>
+    <lastmod>2015-03-01T14:43:49+05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>

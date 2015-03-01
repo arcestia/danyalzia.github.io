@@ -4,13 +4,24 @@
  <title>Danyal Zia</title>
  <link href="http://danyalzia.com/atom.xml" rel="self"/>
  <link href="http://danyalzia.com/"/>
- <updated>2015-02-28T23:50:04+05:00</updated>
+ <updated>2015-03-01T14:43:49+05:00</updated>
  <id>http://danyalzia.com</id>
  <author>
    <name>Danyal Zia</name>
    <email>contact@danyalzia.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Site migrated from Tumblr to Jekyll</title>
+   <link href="http://danyalzia.com/2015/03/01/migrated-to-jekyll/"/>
+   <updated>2015-03-01T00:00:00+05:00</updated>
+   <id>http://danyalzia.com/2015/03/01/migrated-to-jekyll</id>
+   <content type="html">&lt;p&gt;I have moved my blog / site from Tumblr to Github pages which is powered by &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;. I took this decision because of the slow load time speed of Tumblr, and the fact that Tumblr doesn&amp;#39;t support pretty permalinks. Blog posts that were hosted on Tumblr are successfully imported here.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;(This section has been improved and then added to the &lt;a href=&quot;http://danyalzia.com/about&quot;&gt;About&lt;/a&gt; section of the blog)&lt;/strong&gt;&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Namecheap vs GoDaddy - Why I chose Namecheap over GoDaddy for domain registration</title>
@@ -80,13 +91,77 @@ Know any other tips for writing a killer cover letter that has helped you landin
  </entry>
  
  <entry>
-   <title>Hi, there!</title>
-   <link href="http://danyalzia.com/2015/02/25/hi-there/"/>
-   <updated>2015-02-25T00:00:00+05:00</updated>
-   <id>http://danyalzia.com/2015/02/25/hi-there</id>
-   <content type="html">&lt;p&gt;I have moved my blog / site from Tumblr to Github pages which is powered by &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;. I took this decision because of the slow load time speed of Tumblr, and the fact that Tumblr doesn&amp;#39;t support pretty permalinks. Blog posts that were hosted on Tumblr are successfully imported here.&lt;/p&gt;
+   <title>Programming blog posts have been migrated to my sister-site</title>
+   <link href="http://danyalzia.com/2015/02/18/programming-blog-migrated/"/>
+   <updated>2015-02-18T00:00:00+05:00</updated>
+   <id>http://danyalzia.com/2015/02/18/programming-blog-migrated</id>
+   <content type="html">&lt;p&gt;I have migrated the programming posts / guides that were hosted on this blog to my sister-site: Coding Makes You Happy! From now on, this blog is about my opinions on programming, software development and personal development, so all the future programming tutorials will reside in the aforementioned site.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Created a separate blog for programming tutorials</title>
+   <link href="http://danyalzia.com/2015/01/28/separate-programming-blog/"/>
+   <updated>2015-01-28T00:00:00+05:00</updated>
+   <id>http://danyalzia.com/2015/01/28/separate-programming-blog</id>
+   <content type="html">&lt;p&gt;Another intuitive. This time I have created a separate blog for programming like I did for book reviews. The reason for this is that I want this site/blog to be my personal/professional home page only, and I don&amp;#39;t want to fill it with programming tutorials. The tutorials that are hosted on this blog will be migrated to the aforementioned blog.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Now you can subscribe to my mailing list</title>
+   <link href="http://danyalzia.com/2015/01/16/subscribe-to-mailing-list/"/>
+   <updated>2015-01-16T00:00:00+05:00</updated>
+   <id>http://danyalzia.com/2015/01/16/subscribe-to-mailing-list</id>
+   <content type="html">&lt;p&gt;I have added the newsletter sign-up form to my programming blog, which is powered by MailChimp. Through it, you can get the tips on programming/coding and emails which is driven by RSS-email campaign. Feel free to subscribe, I won&amp;#39;t spam you, I promise.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>My Fiverr Gig on blog writing on programming topics</title>
+   <link href="http://danyalzia.com/2015/01/15/my-fiverr-gig/"/>
+   <updated>2015-01-15T00:00:00+05:00</updated>
+   <id>http://danyalzia.com/2015/01/15/my-fiverr-gig</id>
+   <content type="html">&lt;p&gt;I had a created a Gig on programming in Fiverr about 2 months ago, but unfortunately, it didn&amp;#39;t sell very well. Now, I have improved the information on it with proper images. Feel free to buy Gigs through it if you want me to write a programming blog / article for you.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Pinterest account created</title>
+   <link href="http://danyalzia.com/2015/01/10/pinterest-account-created/"/>
+   <updated>2015-01-10T00:00:00+05:00</updated>
+   <id>http://danyalzia.com/2015/01/10/pinterest-account-created</id>
+   <content type="html">&lt;p&gt;Today I created my account on Pinterest, which is a visual discovery tool. Through it, one can create different boards to pin (post) different images. It is a great way to keep yourself reminded of the message in the images, such as, New Year resolutions, motivational quotes, etc. The link to my profile can be found at the end of my site.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Religious dogmatism and conviction in a nutshell</title>
+   <link href="http://danyalzia.com/2015/01/02/religious-dogmatism-and-conviction/"/>
+   <updated>2015-01-02T00:00:00+05:00</updated>
+   <id>http://danyalzia.com/2015/01/02/religious-dogmatism-and-conviction</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;http://danyalzia.com/media/images/religious-conviction.png&quot; alt=&quot;Religious&quot;&gt;
+&lt;em&gt;&lt;img src=&quot;url&quot; alt=&quot;Relgious Conviction&quot;&gt;&lt;/em&gt;
+This is the 21st century and the world has become a global village. People have become civilized, intellectually independent and started questioning their faith; you can’t force your beliefs on others and expect them to give respect to you! Humans have evolved intellectually and realized that organized religions and ideologies only killed more people and deterred progression. If you think that girls shouldn’t be in schools or women without veil don’t deserve respect or people deserves to die for merely holding a different belief and writing a book criticizing your faith, then you have so much in common with the Taliban, ISIS, etc.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;(This section has been improved and then added to the &lt;a href=&quot;http://danyalzia.com/about&quot;&gt;About&lt;/a&gt; section of the blog)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Humans deserve respect, ideologies don’t. Keep your religion to yourself, and your life and others’ life will be great!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Hi, there!</title>
+   <link href="http://danyalzia.com/2015/01/01/hi-there/"/>
+   <updated>2015-01-01T00:00:00+05:00</updated>
+   <id>http://danyalzia.com/2015/01/01/hi-there</id>
+   <content type="html">&lt;p&gt;&lt;strong&gt;(This was the first blog post when I created my blog on Tumblr. Many things have changed since then, most prominently the migration of this site from &lt;a href=&quot;http://danyalzia.com/2015/03/01/migrated-to-jekyll/&quot;&gt;Tumblr to Jekyll&lt;/a&gt;. I have decided to host old posts here as well so that I can see the improvements in my writing style).&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This is the introductory post and my initial expression on Tumblr for a personal site/blog.&lt;/p&gt;
+
+&lt;p&gt;My name is Danyal Zia, I live in Karachi, Pakistan — a fast &lt;a href=&quot;http://en.wikipedia.org/wiki/Economy_of_Karachi&quot;&gt;developing city&lt;/a&gt;. I’m graduating at University of Karachi, where I’m studying software engineering. I like to program applications, my main interest is in native compiled programming languages. I prefer static/strongly typed languages such as C, C++ and D. In the recent months, I have contributed to some open-source softwares that are hosted on Github. I occasionally host my projects and code snippets there too, at the moment I’m developing the direct bindings of Irrlicht 3D Engine (which is originally written in C++) for D programming language — a language which I admires a lot — for which I will post later. I currently do freelancing in software development and a content writer. Apart from programming and writing skills, I like to play (guitar, keyboards etc) and listen (rock mostly) music. I regularly do cover of contemporary rock songs.&lt;/p&gt;
+
+&lt;p&gt;Tumblr — as a CMS seemed very appealing to me. I was seduced by the fact that you can create unlimited sites with it for free and the custom domain can be later brought from domain registrar at a quite reasonable prize. When I began working as a freelancer, I had an ambition to make my personal site — a site which can be one-stop shop on my contact information. So, I decided to try Tumblr for both the CMS and site hosting, and I’m quite happy with it. Once I get enough recognition, I will buy the custom domain.&lt;/p&gt;
+
+&lt;p&gt;PS: Feel free to poke around the site and &lt;a href=&quot;http://danyalzia.com/contact&quot;&gt;contact me&lt;/a&gt; if needed!&lt;/p&gt;
 </content>
  </entry>
  
