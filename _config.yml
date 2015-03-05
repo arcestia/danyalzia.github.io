@@ -21,7 +21,7 @@ author:
   name:              Danyal Zia
   url:               https://twitter.com/danyalzk
   email:             contact@danyalzia.com
-  
+
 gems:
   - jekyll-sitemap
   - jekyll-redirect-from
