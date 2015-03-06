@@ -3,7 +3,7 @@ layout: post
 title: Namecheap vs GoDaddy - Why I chose Namecheap over GoDaddy for domain registration
 ---
 
-![Namecheap vs GoDaddy](https://31.media.tumblr.com/be57217c58addd5db3027a9ada849c7a/tumblr_inline_nj03ceP40a1t1et1i.jpg)
+![Namecheap vs GoDaddy](../media/images/namecheap-vs-godaddy.jpg)
 **This is my honest piece of review on the services of [Namecheap](https://www.namecheap.com/?aff=77601) and [GoDaddy](http://www.godaddy.com/). I only recommend product I personally use.**
 
 When I created my personal homepage / blog on Tumblr (it was before I moved it to Jekyll), I badly wanted to buy the custom domain for it. I didn't want to buy the hosting, as Tumblr already provided the platform for me to blog regularly and create pages for my services and contact information. Also, Tubmlr provided almost complete control / customization (HTML/CSS, etc.), so there was no reason for me to buy the hosting for other blogging platforms (self-hosted WordPress, etc.) because I didn't want that extra functionality of those, such as plugins (i.e., PHP support), etc.
@@ -13,5 +13,5 @@ Anyway, I did google "**Cheap domains**" and found GoDaddy on top of the search 
 I then found another domain registrar, namely, [Namecheap](https://www.namecheap.com/?aff=77601) from the Wikipedia page of [GoDaddy](http://en.wikipedia.org/wiki/Go_Daddy) while reading the [internet freedom controversy](http://en.wikipedia.org/wiki/Stop_Online_Piracy_Act). I visited the page and fell in love with its simplicity. They were giving **.com** domain for **$10.69 / year** with a free [WHOIS](http://en.wikipedia.org/wiki/Whois) guard for the first year, so they were indeed cheaper than GoDaddy.
 
 I don't have any experience in buying the hosting from either of them, but for getting a custom domain for your blog, I would highly recommend [Namcheap](https://www.namecheap.com/?aff=77601) because of their user-friendly website and (a bit) cheaper domain registration.
-<hr />
-*Disclaimer: Some of the links in this post are “affiliate links.” This means if you click on the link and purchase the item, I will receive an affiliate commission (at no additional cost to you), which is a nice way to support me. Regardless, I only recommend products or services I use personally and believe will add value to my readers. I am disclosing this in accordance with the Federal Trade Commission’s [16 CFR, Part 255](http://www.access.gpo.gov/nara/cfr/waisidx_03/16cfr255_03.html): “Guides Concerning the Use of Endorsements and Testimonials in Advertising.”*
+
+**(Some of the links above are affiliate links)**
