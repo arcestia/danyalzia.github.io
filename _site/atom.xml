@@ -4,13 +4,24 @@
  <title>Danyal Zia</title>
  <link href="http://danyalzia.com/atom.xml" rel="self"/>
  <link href="http://danyalzia.com/"/>
- <updated>2015-03-05T22:41:48+05:00</updated>
+ <updated>2015-03-07T00:16:48+05:00</updated>
  <id>http://danyalzia.com</id>
  <author>
    <name>Danyal Zia</name>
    <email>contact@danyalzia.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Remember us, for we too have lived, loved, and laughed</title>
+   <link href="http://danyalzia.com/2015/03/07/remember-us-for-we-too-have-lived-loved-and-laughed/"/>
+   <updated>2015-03-07T00:00:00+05:00</updated>
+   <id>http://danyalzia.com/2015/03/07/remember-us-for-we-too-have-lived-loved-and-laughed</id>
+   <content type="html">&lt;p&gt;I wrote a short Facebook note on my thoughts about this fascinating quote in the movie &amp;quot;Shutter Island&amp;quot;.&lt;/p&gt;
+
+&lt;div id=&quot;fb-root&quot;&gt;&lt;/div&gt;&lt;script&gt;(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = &quot;//connect.facebook.net/en_US/all.js#xfbml=1&quot;;  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));&lt;/script&gt;&lt;div class=&quot;fb-post&quot; data-href=&quot;https://www.facebook.com/notes/danyal-zia/remember-us-for-we-too-have-lived-loved-and-laughed/1012355488778554&quot; data-width=&quot;466&quot;&gt;&lt;div class=&quot;fb-xfbml-parse-ignore&quot;&gt;&lt;a href=&quot;https://www.facebook.com/notes/danyal-zia/remember-us-for-we-too-have-lived-loved-and-laughed/1012355488778554&quot;&gt;Post&lt;/a&gt; by &lt;a href=&quot;https://www.facebook.com/danyal.zia.k&quot;&gt;Danyal Zia&lt;/a&gt;.&lt;/div&gt;&lt;/div&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Site migrated from Tumblr to Jekyll</title>
