@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-![Skyline of Karachi](../media/images/Skyline_of_Karachi.jpg)
+![Skyline of Karachi]({{ baseurl }}/media/images/Skyline_of_Karachi.jpg)
 *![Skyline of Karachi - (Courtesy: Wikimedia)](url)*
 
 

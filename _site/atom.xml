@@ -4,7 +4,7 @@
  <title>Danyal Zia</title>
  <link href="http://danyalzia.com/atom.xml" rel="self"/>
  <link href="http://danyalzia.com/"/>
- <updated>2015-03-07T00:44:04+05:00</updated>
+ <updated>2015-03-07T13:00:39+05:00</updated>
  <id>http://danyalzia.com</id>
  <author>
    <name>Danyal Zia</name>
@@ -37,7 +37,7 @@
    <link href="http://danyalzia.com/2015/02/28/namecheap-vs-godaddy/"/>
    <updated>2015-02-28T00:00:00+05:00</updated>
    <id>http://danyalzia.com/2015/02/28/namecheap-vs-godaddy</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;../media/images/namecheap-vs-godaddy.jpg&quot; alt=&quot;Namecheap vs GoDaddy&quot;&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/media/images/namecheap-vs-godaddy.jpg&quot; alt=&quot;Namecheap vs GoDaddy&quot;&gt;
 &lt;strong&gt;This is my honest piece of review on the services of &lt;a href=&quot;https://www.namecheap.com/?aff=77601&quot;&gt;Namecheap&lt;/a&gt; and &lt;a href=&quot;http://www.godaddy.com/&quot;&gt;GoDaddy&lt;/a&gt;. I only recommend product I personally use.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;When I created my personal homepage / blog on Tumblr (it was before I moved it to Jekyll), I badly wanted to buy the custom domain for it. I didn&amp;#39;t want to buy the hosting, as Tumblr already provided the platform for me to blog regularly and create pages for my services and contact information. Also, Tubmlr provided almost complete control / customization (HTML/CSS, etc.), so there was no reason for me to buy the hosting for other blogging platforms (self-hosted WordPress, etc.) because I didn&amp;#39;t want that extra functionality of those, such as plugins (i.e., PHP support), etc.&lt;/p&gt;
@@ -57,7 +57,7 @@
    <link href="http://danyalzia.com/2015/02/27/6-tips-for-writing-a-killer-cover-letter/"/>
    <updated>2015-02-27T00:00:00+05:00</updated>
    <id>http://danyalzia.com/2015/02/27/6-tips-for-writing-a-killer-cover-letter</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;../media/images/6-Tips-For-Writing-A-Killer-Cover-Letter.jpg&quot; alt=&quot;6 Tips For Writing A Killer Cover Letter&quot;&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/media/images/6-Tips-For-Writing-A-Killer-Cover-Letter.jpg&quot; alt=&quot;6 Tips For Writing A Killer Cover Letter&quot;&gt;
 &lt;em&gt;&lt;img src=&quot;url&quot; alt=&quot;Courtesy: Red Star Resume&quot;&gt;&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Tired of getting declination of jobs because of poorly written cover letters?&lt;/strong&gt;&lt;/p&gt;
@@ -101,7 +101,7 @@
    <link href="http://danyalzia.com/2015/02/18/programming-blog-migrated/"/>
    <updated>2015-02-18T00:00:00+05:00</updated>
    <id>http://danyalzia.com/2015/02/18/programming-blog-migrated</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;http://4.bp.blogspot.com/-G-TPx3yzWFU/VO-QV1nGTTI/AAAAAAAAAMQ/iGyzkk-opcA/s1600/CMYH.jpg&quot; alt=&quot;Coding Makes You Happy!&quot;&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/media/images/CMYH.jpg&quot; alt=&quot;Coding Makes You Happy!&quot;&gt;
 I have migrated the programming posts / guides that were hosted on this blog to my sister-site: &lt;a href=&quot;http://codingmakesyouhappy.com&quot;&gt;Coding Makes You Happy!&lt;/a&gt;. From now on, this blog is about my opinions on programming, software development and personal development, so all the future programming tutorials will reside in the aforementioned site.&lt;/p&gt;
 </content>
  </entry>
@@ -147,7 +147,7 @@ I have migrated the programming posts / guides that were hosted on this blog to 
    <link href="http://danyalzia.com/2015/01/02/religious-dogmatism-and-conviction/"/>
    <updated>2015-01-02T00:00:00+05:00</updated>
    <id>http://danyalzia.com/2015/01/02/religious-dogmatism-and-conviction</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;http://danyalzia.com/media/images/religious-conviction.png&quot; alt=&quot;Relgious Conviction&quot;&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/media/images/religious-conviction.png&quot; alt=&quot;Relgious Conviction&quot;&gt;
 &lt;em&gt;&lt;img src=&quot;url&quot; alt=&quot;Relgious Conviction&quot;&gt;&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;This is the 21st century and the world has become a global village. People have become civilized, intellectually independent and started questioning their faith; you can’t force your beliefs on others and expect them to give respect to you! Humans have evolved intellectually and realized that organized religions and ideologies only killed more people and deterred progression. If you think that girls shouldn’t be in schools or women without veil don’t deserve respect or people deserves to die for merely holding a different belief and writing a book criticizing your faith, then you have so much in common with the Taliban, ISIS, etc.&lt;/p&gt;

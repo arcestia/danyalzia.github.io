@@ -3,7 +3,7 @@ layout: post
 title: Namecheap vs GoDaddy - Why I chose Namecheap over GoDaddy for domain registration
 ---
 
-![Namecheap vs GoDaddy](../media/images/namecheap-vs-godaddy.jpg)
+![Namecheap vs GoDaddy]({{ baseurl }}/media/images/namecheap-vs-godaddy.jpg)
 **This is my honest piece of review on the services of [Namecheap](https://www.namecheap.com/?aff=77601) and [GoDaddy](http://www.godaddy.com/). I only recommend product I personally use.**
 
 When I created my personal homepage / blog on Tumblr (it was before I moved it to Jekyll), I badly wanted to buy the custom domain for it. I didn't want to buy the hosting, as Tumblr already provided the platform for me to blog regularly and create pages for my services and contact information. Also, Tubmlr provided almost complete control / customization (HTML/CSS, etc.), so there was no reason for me to buy the hosting for other blogging platforms (self-hosted WordPress, etc.) because I didn't want that extra functionality of those, such as plugins (i.e., PHP support), etc.

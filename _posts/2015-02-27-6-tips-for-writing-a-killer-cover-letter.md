@@ -4,7 +4,7 @@ title: 6 Tips For Writing A Killer Cover Letter
 ---
 
 
-![6 Tips For Writing A Killer Cover Letter](../media/images/6-Tips-For-Writing-A-Killer-Cover-Letter.jpg)
+![6 Tips For Writing A Killer Cover Letter]({{ baseurl }}/media/images/6-Tips-For-Writing-A-Killer-Cover-Letter.jpg)
 *![Courtesy: Red Star Resume](url)*
 
 **Tired of getting declination of jobs because of poorly written cover letters?**

@@ -8,6 +8,13 @@
   <div class="sidebar-item">
 	  <img src="https://avatars2.githubusercontent.com/u/4582691?v=3&s=460">
     <p>{{ site.tagline }}</p>
+    
+    <a class="webicon twitter" href="https://twitter.com/danyalzk">Twitter</a>
+	<a class="webicon facebook" href="https://facebook.com/danyal.zia.k">Facebook</a>
+	<a class="webicon linkedin" href="https://linkedin.com/pub/danyal-zia">LinkedIn</a>
+	<a class="webicon googleplus" href="https://plus.google.com/+DanyalZia/">Google+</a>
+	<a class="webicon tumblr" href="http://danyalzia.tumblr.com">Tumblr</a>
+	<a class="webicon pinterest" href="https://pinterest.com/danyalzia">Pinterest</a>
   </div>
 
   <nav class="sidebar-nav">
@@ -18,10 +25,10 @@
       `layout: page` in the front-matter. See readme for usage.
     {% endcomment %}
 
-	<a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="http://danyalzia.com/about">About</a>
-	<a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="http://danyalzia.com/contact">Contact</a>
-	<a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="http://danyalzia.com/projects">Projects</a>
-	<a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="http://danyalzia.com/archive">Archive</a>
+	<a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ baseurl }}/about">About</a>
+	<a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ baseurl }}/contact">Contact</a>
+	<a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ baseurl }}/projects">Projects</a>
+	<a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ baseurl }}/archive">Archive</a>
   </nav>
 
   <div class="sidebar-item">
