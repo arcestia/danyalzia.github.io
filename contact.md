@@ -5,7 +5,7 @@ title: Contact
 
 Hey there, thank you for visiting my website. I am flattered that you are interested in contacting me!
 
-I’m looking forward to connecting with you. My social media links can found in the sidebar (click the icon in the far left of this page).
+I’m looking forward to connecting with you. My social media links can found in the sidebar (click the icon in the far left of this page to open it).
 
 Please note this is my personal blog, and I DO NOT accept guest posts or advertising inquiries.
 
