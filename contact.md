@@ -14,7 +14,6 @@ You may need to contact me through email for the following reasons:
 * You are interested in hiring me to work for you.
 * You are interested in working with me.
 * You want to complain something about the content on this site, such as plagiarism, etc.
-* You want to sponsor the article or a blog post.
 
 If you want to contact me for the aforementioned reasons, then please do so at [contact@danyalzia.com](mailto:contact@danyalzia.com) for any query or suggestion, and I will gladly respond to you!
 
