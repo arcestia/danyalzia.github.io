@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Namecheap vs GoDaddy - Why I chose Namecheap over GoDaddy for domain registration
+thumbnail: /media/images/namecheap-vs-godaddy.jpg
 ---
 
 ![Namecheap vs GoDaddy]({{ baseurl }}/media/images/namecheap-vs-godaddy.jpg)

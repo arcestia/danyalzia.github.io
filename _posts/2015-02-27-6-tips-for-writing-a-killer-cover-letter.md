@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 6 Tips For Writing A Killer Cover Letter
+thumbnail: /media/images/6-Tips-For-Writing-A-Killer-Cover-Letter.jpg
 ---
 
 

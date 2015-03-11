@@ -1,6 +1,7 @@
 ---
 layout: post
 title: My experience with learning SQL
+thumbnail: /media/images/SQL.png
 ---
 
 ![SQL]({{ baseurl }}/media/images/SQL.png)
