@@ -1,7 +1,7 @@
 ---
 layout: post
 title: If I Stay - A great story with sad theme, but without depressing effect
-description: My book review on this New York Times Bestsellers Young Adult (YA) novel.
+description: My book review of this New York Times Bestsellers Young Adult (YA) novel.
 ---
 
 ![If I Stay]({{ baseurl }}/media/images/If_i_stay_book_cover.jpg)
