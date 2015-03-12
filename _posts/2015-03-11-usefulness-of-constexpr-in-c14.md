@@ -2,8 +2,9 @@
 layout: post
 title: Usefulness of constexpr in C++14
 description: With the advent of C++14, can users of established languages like C++ enjoy CTFE of D programming language?
+thumbnail: /media/images/usefulness-of-constexpr.jpg
 ---
-
+![Usefulness of constexpr in C++14]({{baseurl}}/media/images/usefulness-of-constexpr.jpg)
 **With the advent of C++14, can users of established languages like C++ enjoy CTFE of D programming language?**
 
 The new standard of C++, that was formally called C++1y has been released for preview in the [mid-August](http://isocpp.org/blog/2014/08/we-have-cpp14) of 2014. It took some time for the standardization. [Clang](http://clang.llvm.org/cxx_status.html) and [g++](https://gcc.gnu.org/projects/cxx1y.html) already implemented most of its features at the time with Clang claiming to be 100% feature-complete. For the new users of C++11, it merely enhances some aspects that were either oversight or voluntary left out for the future revisions.
