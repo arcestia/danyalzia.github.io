@@ -18,4 +18,4 @@ When I began working as a freelancer, I had an ambition to make my personal site
 
 You can reach me on social media networks (links are given in the sidebar).
 
-PS: Feel free to poke around the site and [contact me](http://danyalzia.com/contact) if needed!
+PS: Feel free to poke around the site and [contact me]({{baseurl}}/contact) if needed!
