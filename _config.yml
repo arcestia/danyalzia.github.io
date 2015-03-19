@@ -21,6 +21,8 @@ locale:         	 en_us
 author:
   name:              Danyal Zia
   email:             contact@danyalzia.com
+fb_admins:      	 http://facebook.com/danyal.zia.k
+fb_appid:       	 337414769782635
 
 gems:
   - jekyll-sitemap
