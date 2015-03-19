@@ -15,6 +15,7 @@ description:         "Danyal Zia's thoughts on software development, personal de
 url:                 http://danyalzia.com
 baseurl:             /
 paginate:            5
+locale:         	 en_us
 
 # About/contact
 author:
