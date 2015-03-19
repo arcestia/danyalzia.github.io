@@ -2,6 +2,7 @@
 layout: post
 title: INFJs as software engineers 
 description: How to enjoy being a software developer without abandoning yourself
+date: 2015-03-19
 thumbnail: /media/images/infj-confession-software-developer.png
 ---
 ![INFJs as software engineers]({{baseurl}}/media/images/infj-confession-software-developer.png)
