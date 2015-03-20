@@ -25,7 +25,7 @@ The most prominent thing in the storytelling was that the past was intertwined w
 
 If I Stay is indeed very moving, touching and beautifully written. It’s so gripping that you compel to read all two hundred and seven pages in one go (I finished reading the novel in two days), and is sure to be one of the year’s most talked about releases. I’d say that Gayle Forman is an eloquent writer when it comes to storytelling from first-person.
 
-### Review
+### Ratings
 
 It was a great read. From reading the reviews, I thought that the theme is too sad, and it would have a depressing effect on my health. When I passed few pages, I found the theme quite happy and light, unlike what I read in reviews, though the theme shifts suddenly between the light of happiness and sadness. In the end, I wasn’t really sad or depressed, instead, I had a feeling of happiness and satisfacation, although it made me craved for more as I found the ending a bit dissapointing. Overall, the story made me realized the importance of ***life***, ***love*** and ***family***.
 
