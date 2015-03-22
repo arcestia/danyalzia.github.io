@@ -1,7 +1,6 @@
 ---
 layout: post
 title: How writing down my feelings help with depression
-description: How writing down my feelings help with depression
 thumbnail: /media/images/depression.jpg
 ---
 ![How writing down feelings help with depression]({{baseurl}}/media/images/depression.jpg)
