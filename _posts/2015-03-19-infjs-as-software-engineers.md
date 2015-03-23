@@ -6,7 +6,7 @@ date: 2015-03-19
 thumbnail: /media/images/infj-confession-software-developer.png
 ---
 ![INFJs as software engineers]({{baseurl}}/media/images/infj-confession-software-developer.png)
-Many INFJs wonder whether software engineering is a good career choice for them. They may be forced into this career by their parents, or they may feel compelled to do a major in this field of engineering, considering the growing demand of programmers.
+<span class="firstcharacter">M</span>any INFJs wonder whether software engineering is a good career choice for them. They may be forced into this career by their parents, or they may feel compelled to do a major in this field of engineering, considering the growing demand of programmers.
 
 The common belief is that INFJs are better off choosing such careers where their [extroverted feelings (Fe)](http://personalitygrowth.com/extraverted-feeling-fe/) can be utilized. Careers such as counseling, therapy, teaching, writing, etc. can be found in the *dream careers* list on websites providing career suggestions based on a person's [MBTI](http://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator).
 

@@ -6,7 +6,7 @@ thumbnail: /media/images/SQL.png
 
 ![SQL]({{ baseurl }}/media/images/SQL.png)
 
-Today, I finished the third class of SQL (about its syntax and [Microsoft SQL Server](en.wikipedia.org/wiki/Microsoft_SQL_Server
+<span class="firstcharacter">T</span>oday, I finished the third class of SQL (about its syntax and [Microsoft SQL Server](en.wikipedia.org/wiki/Microsoft_SQL_Server
 )) in my university, where we have been taught about [SQL Joins](http://www.techonthenet.com/sql/joins.php) (Inner Joins, Outer Joines, etc.) and [Subqueries](https://technet.microsoft.com/en-us/library/ms189575%28v=sql.105%29.aspx).
 
 Even though, it was my first time learning the actual SQL Queries (the first two classes were introductory classes and thus were boring for me), it convinced me enough that SQL isn't hard to learn for newbies compared to general purpose programming languages like C/C++, Java, etc.

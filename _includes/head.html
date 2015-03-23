@@ -13,7 +13,7 @@
   <meta property="og:type" content="{% if page.thumbnail %}article{% else %}website{% endif %}">
 <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 <meta property="og:image" content="{% if page.thumbnail %}{{ page.thumbnail | prepend: site.baseurl | prepend: site.url }}{% else %}{{ {{baseurl}}/media/images/danyal-zia-avatar.png | prepend: site.baseurl | prepend: site.url }}{% endif %}">
-<meta property="og:description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+<meta property="og:description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% endif %}">
 <meta property="og:site_name" content="{{ site.title }}">
 <meta property="og:locale" content="{{ site.locale }}">
 
@@ -59,6 +59,7 @@
   <link rel="stylesheet" href="{{ site.baseurl }}public/css/syntax.css">
   <link rel="stylesheet" href="{{ site.baseurl }}public/css/lanyon.css">
   <link rel="stylesheet" href="{{ site.baseurl }}public/css/webicons.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}public/css/firstcharacter.css">
   <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700%7CPT+Sans:400">
 
   <!-- Icons -->

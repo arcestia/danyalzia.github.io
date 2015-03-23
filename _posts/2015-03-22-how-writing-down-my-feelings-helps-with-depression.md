@@ -5,7 +5,7 @@ description: The good outcomes of writing down your feelings
 thumbnail: /media/images/depression.jpg
 ---
 ![How writing down feelings help with depression]({{baseurl}}/media/images/depression.jpg)
-Depression comes in various forms: Minor, Major, Chronic, etc. About [9% of the U.S. population](http://www.webmd.com/depression/news/20100930/how-many-in-united-states-are-depressed) is affected by depression, from which 3.4% suffer from Major Depression. Whatever form of depression you experience, you may find difficulty in coping with it.
+<span class="firstcharacter">D</span>epression comes in various forms: Minor, Major, Chronic, etc. About [9% of the U.S. population](http://www.webmd.com/depression/news/20100930/how-many-in-united-states-are-depressed) is affected by depression, from which 3.4% suffer from Major Depression. Whatever form of depression you experience, you may find difficulty in coping with it.
 
 Writing down feelings is a form of verbalization. Studies show that [verbalizing our feeling](http://mybrainfacts.com/cont01/084.html) lessens the sadness, anger and pain, especially in people who find it hard to express their emotions to others in spoken words. Most people don't get that when I am writing my feelings down, whether in a private journal or in social media networks, I am actually releasing my pain. It's a form of therapy for me.
 

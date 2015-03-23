@@ -7,9 +7,7 @@ thumbnail: /media/images/universal-forces-cover.jpg
 ![Universal Forces Cover]({{baseurl}}/media/images/universal-forces-cover.jpg)
 **(Note: This is my personal review on the story and it may contain spoilers)**
 
-### Background
-
-I don't usually read novels from indie authors, but as I am learning creative writing and hoping to bundle my feelings into a novel one day, I felt compelled to support indie authors. This is probably my first indie reads, especially in the genre of Young Adult (YA), which I enjoyed greatly due to its unique writing style and interesting theme, thus I am reviewing this novel happily.
+<span class="firstcharacter">I</span> don't usually read novels from indie authors, but as I am learning creative writing and hoping to bundle my feelings into a novel one day, I felt compelled to support indie authors. This is probably my first indie reads, especially in the genre of Young Adult (YA), which I enjoyed greatly due to its unique writing style and interesting theme, thus I am reviewing this novel happily.
 
 ### Author
 

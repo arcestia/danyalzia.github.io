@@ -10,7 +10,7 @@ thumbnail: /media/images/6-Tips-For-Writing-A-Killer-Cover-Letter.jpg
 
 **Tired of getting declination of jobs because of poorly written cover letters?**
 
-Most of us who are looking for potential jobs in a marketplace need to regularly write cover letters to sell ourselves in a such way that make us stand out of the rest, especially for online work platforms or [freelance marketplace](http://en.wikipedia.org/wiki/Freelance_marketplace). Badly written cover letters give impression to the client that the candidate is a cut / copy paster, that way a client can lose a candidate with the highest potential!
+<span class="firstcharacter">M</span>ost of us who are looking for potential jobs in a marketplace need to regularly write cover letters to sell ourselves in a such way that make us stand out of the rest, especially for online work platforms or [freelance marketplace](http://en.wikipedia.org/wiki/Freelance_marketplace). Badly written cover letters give impression to the client that the candidate is a cut / copy paster, that way a client can lose a candidate with the highest potential!
 
 The tradition of writing cover letters to clients for making contracts dates back to the days when people started using the medium of written communication to express the formal message.
 
