@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Integrating Open Graph Meta Tags In Jekyll
+title: Integrating Facebook Open Graph Meta Tags In Jekyll
+description: Learn the process to integrate Facebook Open Graph Meta Tags In Jekyll
 thumbnail: /media/images/ogp-jekyll.png
 ---
 ![Integrating Facebook Open Graph in Jekyll]({{baseurl}}/media/images/ogp-jekyll.png)
