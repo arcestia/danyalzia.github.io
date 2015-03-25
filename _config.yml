@@ -14,6 +14,7 @@ tagline:             'A freelance software developer, writer and an entrepreneur
 description:         "Danyal Zia's thoughts on software development, personal development, blogging and entrepreneurship."
 url:                 http://danyalzia.com
 baseurl:             /
+avatar:				 media/images/danyal-zia-avatar.png
 paginate:            5
 locale:         	 en_us
 
