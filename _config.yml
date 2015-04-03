@@ -10,8 +10,8 @@ relative_permalinks: true
         
 # Setup
 title:               Danyal Zia
-tagline:             'A freelance software developer, writer and an entrepreneur.'
-description:         "Danyal Zia's thoughts on software development, personal development, blogging and entrepreneurship."
+tagline:             'A freelance software developer and writer.'
+description:         "Danyal Zia's thoughts on software development, personal development and writing."
 url:                 http://danyalzia.com
 baseurl:             /
 avatar:				 media/images/danyal-zia-avatar.png
