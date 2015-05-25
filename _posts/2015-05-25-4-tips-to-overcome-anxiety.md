@@ -2,9 +2,9 @@
 layout: post
 title: 4 Tips to Overcome Anxiety
 description: My ways to overcoming anxiety
-thumbnail: /media/images/anxiety.jpeg
+thumbnail: /media/images/anxiety.jpg
 ---
-![4 Tips to Overcome Anxiety]({{baseurl}}/media/images/anxiety.jpeg)
+![4 Tips to Overcome Anxiety]({{baseurl}}/media/images/anxiety.jpg)
 
 <span class="firstcharacter">M</span>any of us suffer from anxiety at some stage of our life. Whether you may be anxious about giving the public speech, or maybe you are anxious about dealing with your boss. If you are frequently experiencing anxiety and you find yourself struggling to cope with it on a regular basis, then perhaps your anxiety is caused by the underlying mental illness.
 
