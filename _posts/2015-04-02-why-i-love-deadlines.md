@@ -2,9 +2,9 @@
 layout: post
 title: Why I love deadlines
 description: Points in favor of deadlines
-thumbnail: /media/images/why-i-love-deadlines.jpeg
+thumbnail: /media/images/why-i-love-deadlines.jpg
 ---
-![Why I love deadlines]({{baseurl}}/media/images/why-i-love-deadlines.jpeg)
+![Why I love deadlines]({{baseurl}}/media/images/why-i-love-deadlines.jpg)
 
 <span class="firstcharacter">I</span>n my freelance writing career, I find it hard to finish the work if I don't have enough stress of deadlines. This stress is actually an [eustress](http://en.wikipedia.org/wiki/Eustress) for me, because it motivates me enough to complete the unfinished projects. I do many projects at once, and sometimes it's hard to keep focused on a single project regardless of my decisive personality. I needs to have the ability to effectively meet a deadline.
 
