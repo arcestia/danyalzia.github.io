@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 4 Tips to Overcome Anxiety
+title: 4 tips to overcome anxiety
 description: My ways to overcoming anxiety
 thumbnail: /media/images/anxiety.jpg
 ---

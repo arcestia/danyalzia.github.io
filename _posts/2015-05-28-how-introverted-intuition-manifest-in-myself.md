@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Introverted Intuition Manifested In My Childhood
+title: How introverted intuition manifested in my childhood
 description: My memories of a childhood living with introverted intuition
 thumbnail: /media/images/infj/8449-Intuition.jpg
 ---
