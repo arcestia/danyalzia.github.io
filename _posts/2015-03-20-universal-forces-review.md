@@ -31,4 +31,4 @@ Unlike other YA novels I have read, the element of curiosity seemed more promine
 
 If you have read the classic Romeo and Juliet, then I would highly recommend you to read this makeover by Monica Shaughnessy, especially if you are a nerd and have an interest in the dark theme combined with YA fantasies. The readers should be matured enough, as there is some offensive language and reference. People of ages 15+ would be fine. I would rate this novel **4.5** on the scale of **5**.
 
-You can buy it from Amazon [HERE](http://www.amazon.com/gp/product/B00A0WD25S/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00A0WD25S&linkCode=as2&tag=danzia-20&linkId=KW5WHT6ONHFBYOJ4).
+You can buy it from Amazon [HERE](http://www.amazon.com/gp/product/B00A0WD25S/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00A0WD25S&linkCode=as2&tag=danzia09-20&linkId=KW5WHT6ONHFBYOJ4).

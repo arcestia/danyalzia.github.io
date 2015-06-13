@@ -34,7 +34,7 @@ You can be personal without begging for the job; that is, you can make a case th
 
 ### 5) Use proper English
 
-Always use proper English with correct structure, and without any grammatical mistakes, especially for the jobs on content / blog writing, the use of proper English is must. For the non-native writers, I would highly recommend Michael Swan's [Practical English Usage](http://www.amazon.com/gp/product/0194420981/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0194420981&amp;linkCode=as2&amp;tag=danzia-20&amp;linkId=PXXK2JV4DHOYQOIV). Any grammatical error in a cover letter can be a break dealer, so it can be a worth investment!
+Always use proper English with correct structure, and without any grammatical mistakes, especially for the jobs on content / blog writing, the use of proper English is must. For the non-native writers, I would highly recommend Michael Swan's [Practical English Usage](http://www.amazon.com/gp/product/0194420981/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0194420981&amp;linkCode=as2&amp;tag=danzia09-20&amp;linkId=PXXK2JV4DHOYQOIV). Any grammatical error in a cover letter can be a break dealer, so it can be a worth investment!
 
 ### 6) Do not oversell yourself
 
