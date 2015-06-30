@@ -77,6 +77,8 @@ Here, I chose Twitter handle for both **site** and **creator**. If it's a blog p
 
 Now, once you have added the code in your `head.html`, you need to update the source trunk of your Jekyll blog and validate your links from [here](https://cards-dev.twitter.com/validator). This will also add your site in the whitelist for the future validation.
 
+![]({{baseurl}}/media/images/twitter-summary-card-preview.png)
+
 ## Conclusion
 
 In this blog post, I have provided the information on Adding the Twitter Cards to Jekyll and how it can be used to optimise the sharing of your blog posts. If you have any questions, then ask in the comments section below. Why not follow me on [Twitter](http://twitter.com/danyalzk) and [Facebook](http://facebook.com/danyal.zia.k)?
