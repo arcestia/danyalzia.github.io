@@ -73,6 +73,13 @@ You can manually add your title, description and image, but we can use liquid sy
 
 Here, I chose Twitter handle for both **site** and **creator**. If it's a blog post, then the **title** would be the name of the blog post, otherwise it will be the name of the blog (i.e., Danyal Zia). Similar logic has been applied for **url**, **description** and **image**.
 
+Instead of adding the code in `head.html`, I created a new file `twittercards.html`, copied the code in it, and included in my `head.html`.
+
+{% highlight HTML %}{% raw %}
+{% include twittercards.html %}
+{% endraw %}
+{% endhighlight %}
+
 ### 3) Validate your links for Twitter Cards
 
 Now, once you have added the code in your `head.html`, you need to update the source trunk of your Jekyll blog and validate your links from [here](https://cards-dev.twitter.com/validator). This will also add your site in the whitelist for the future validation.

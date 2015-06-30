@@ -68,6 +68,13 @@ You can manually add your title, type (website, article, etc.), image and url, b
 
 I add `thumbnail` in blog posts, so if there is no `thumbnail`, then the page type is `website`, otherwise it's an `article`. If it's a website, then the thumbnail on the links will be my avatar.
 
+Instead of adding the code in `head.html`, I created a new file `opengraph.html`, copied the code in it, and included in my `head.html`.
+
+{% highlight HTML %}{% raw %}
+{% include opengraph.html %}
+{% endraw %}
+{% endhighlight %}
+
 ### 3) Add the relevent info in _config.yml YAML Front Matter
 
 You need to add the variables (if any) that you've used in the meta tags. My `_config.yml` have the related variables for few properties:
