@@ -16,9 +16,9 @@ Reading this poetic utter of Ludwig, you might not be able to grasp the meaning 
 
 This is a remarkable quotation of Friedrich. He argued that people only see things from their perspectives, which is shaped by their experiences, genetics and environmental factors. When the same people find someone "out of the box", they laugh at him, bully him, or even hurt him verbally and physically in order to "fix" him, because they think they care for him, believing the person does things because of his insanity, without realizing the inherent meaning or motivation or possibilities.
 
-### 3) "Everybody is a genius. But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid." - Albert Einstein
+### 3) "A perfection of means and a confusion of aims, seems to be our main problem." - Albert Einstein
 
-There is no single intelligence, as Howard Gardne noticed, there are [9 types of intelligence](http://skyview.vansd.org/lschmidt/Projects/The%20Nine%20Types%20of%20Intelligence.htm). Just because someone isn't good at something doesn't mean he is worthless.
+Many World problems can be solved. We have the potential to fix our problems right away; we are good at getting things done, but are extremely bad at deciding what should be done
 
 ### 4) "All truth passes through three stages. First, it is ridiculed. Second, it is violently opposed. Third, it is accepted as being self-evident." - Arthur Schopenhauer
 
