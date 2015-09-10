@@ -6,7 +6,7 @@ thumbnail: /media/images/trees-silhouette.jpg
 ---
 ![5 great quotations which make you reconsider your existence]({{baseurl}}/media/images/trees-silhouette.jpg)
 
-<span class="firstcharacter">O</span>ften we found ourselves in the grip of existential depression, where the life stops making sense. At such moments, spending time with like-minded people improves the emotional health and may help you in finding the good in life. However, at times, you don't find anyone around you. I found the following quotes incredibly fascinating which give the profound meaning to your life:
+<span class="firstcharacter">O</span>ften we found ourselves in the grip of existential depression, where the life stops making sense. At such moments, spending time with like-minded people improves the emotional health and may help you in finding the good in life. However, at times, you don't find anyone around you. I found the following quotes incredibly fascinating which can get you out of the existential crisis:
 
 ### 1) "Death is not an event in life: we do not live to experience death. If we take eternity to mean not infinite temporal duration but timelessness, then eternal life belongs to those who live in the present. Our life has no end in the way in which our visual field has no limits." - Ludwig Wittgenstein
 
