@@ -18,12 +18,12 @@ This is a remarkable quotation of Friedrich. He argued that people only see thin
 
 ### 3) "A perfection of means and a confusion of aims, seems to be our main problem." - Albert Einstein
 
-Many World problems can be solved. We have the potential to fix our problems right away; we are good at getting things done, but are extremely bad at deciding what should be done
+Many problems in the world can be solved in the correct way. We have the potential to fix our problems right away; we human beings are good at getting things done, especially when we are passionate about it because the values matches ours, but we are extremely bad at deciding what should be done.
 
 ### 4) "All truth passes through three stages. First, it is ridiculed. Second, it is violently opposed. Third, it is accepted as being self-evident." - Arthur Schopenhauer
 
-People don't actually accept the truth. They end up calling it "self-evident" when they can't go anywhere to defend themselves.
+People don't actually accept the truth. They end up calling it "self-evident" when they can't go anywhere in their intellectual pursuits to defend themselves. This is, of course, said with a perspective which conflates opinion with truth.
 
 ### 5) "Hope in reality is the worst of all evils because it prolongs the torments of man." - Friedrich Nietzsche
 
-Friedrich beautifully translated "Ignorance is a bliss" into the human language. The desire for truth, the curiosity of things leads to the destruction of one's health.
+Friedrich beautifully translated "Ignorance is a bliss" into the human language. The desire for truth, the curiosity of things leads to the destruction of one's health. It's terrible to find the truth: the collective beliefs of people turn out to be delusional, language and culture which make people less isolated use lying and fakery to get the aims, forcing people to get into escapism.
