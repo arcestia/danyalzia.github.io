@@ -24,4 +24,6 @@ title: Projects
 ## Sister-sites
 * [Coding Makes You Happy!](http://codingmakesyouhappy.com/) - An initiative to make your programming life easier!
 
+* [Bookshelf of an introvert](http://bookshelfofanintrovert.blogspot.com/) - Book reviews from the eyes of an introvert who is an avid book lover.
+
 
